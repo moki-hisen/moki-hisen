@@ -1,10 +1,20 @@
 <h1 align="center">Hi 👋, I'm Minn Ko</h1>
 <h3 align="center">💥 Energetic Fullstack Native Mobile Apps Developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=moki-hisen&label=Profile%20views&color=0e75b6&style=flat" alt="moki-hisen" /> </p>
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moki-hisen&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=moki-hisen&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile views"
+  />
+</p>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=moki-hisen&layout=compact&langs_count=8&hide_border=false"
+    alt="Top Languages"
+  />
 </div>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
