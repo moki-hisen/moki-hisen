@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Minn Ko</h1>
 <h3 align="center">💥 Energetic Fullstack Native Mobile Apps Developer</h3>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=moki-hisen&layout=compact&langs_count=8"
-    alt="Top Languages"
-  />
-</p>
-
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
