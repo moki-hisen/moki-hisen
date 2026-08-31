@@ -3,17 +3,11 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=moki-hisen&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Profile views"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=moki-hisen&layout=compact&langs_count=8"
+    alt="Top Languages"
   />
 </p>
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=moki-hisen&layout=compact&langs_count=8&hide_border=false"
-    alt="Top Languages"
-  />
-</div>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
